@@ -1,0 +1,5 @@
+ issue manager, 
+ UI and requirements walkthrough, 
+ test plans, 
+ class diagrams and database design, 
+ github commands
